@@ -42,9 +42,9 @@
 ---
 
 ### Investing Life into
-*Writing Python scripts that sometimes act like black magic!<br/>
-*Projects that begin as “small ideas” and end with 3 AM or sunrise!<br/>
-*Learning how not to break production (still learning…)!<br/>
+-Writing Python scripts that sometimes act like black magic!<br/>
+-Projects that begin as “small ideas” and end with 3 AM or sunrise!<br/>
+-Learning how not to break production (still learning…)!<br/>
 
 ---
 
