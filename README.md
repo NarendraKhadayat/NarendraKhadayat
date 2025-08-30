@@ -31,7 +31,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Narendra-181717?style=for-the-badge&logo=github)](https://github.com/NarendraKhadayat)&nbsp;&nbsp;&nbsp; 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narendrakhadayat53/)<br/> 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Narendra_Khadayat-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Narendra_Khadayat/)&nbsp;&nbsp;&nbsp; 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it-ff69b4?style=for-the-badge)](coming-soon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it-ff69b4?style=for-the-badge)](https://narendra-khadayat.vercel.app/)
 
 ---
 ## GitHub Stats
